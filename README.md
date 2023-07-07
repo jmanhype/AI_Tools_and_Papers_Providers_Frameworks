@@ -1,50 +1,181 @@
 # AI_Tools_and_Papers_Providers_Frameworks
 
-AI_Tools_and_Papers_Providers_Frameworks is a curated collection of AI resources, including tools, papers, frameworks, and providers. It covers various categories such as Cloud SaaS Tools, Python Modules, GitHub Repos, and Scientific Papers. Discover valuable references for AI development and research.
 
-## Contents
+AI_Tools_and_Papers_Providers_Frameworks is a curated collection of AI resources, including tools, papers, frameworks, and providers. It covers various categories such as Cloud Providers, Data Versioning, Feature Stores, Model Training Orchestration, Hyperparameter Tuning, Experiment Tracking, Model Deployment & Serving, Model Monitoring, Model Governance & Management, Model Explainability, Model Testing, Automation & Streamlining, Infrastructure, Collaboration, Project Management, Knowledge Management, Communication, AI/ML Libraries, IDEs, Data Visualization, Microservices, Open Source AI/ML Projects, AI/ML Learning Resources, and HR for Global Teams.
 
-- [Cloud SaaS Tools](#cloud-saas-tools)
-- [Python Modules](#python-modules)
-- [GitHub Repos](#github-repos)
-- [Scientific Papers](#scientific-papers)
+## Table of Contents
+- [Cloud Providers](#cloud-providers)
+- [Data Versioning](#data-versioning)
+- [Feature Stores](#feature-stores)
+- [Model Training Orchestration](#model-training-orchestration)
+- [Hyperparameter Tuning](#hyperparameter-tuning)
+- [Experiment Tracking](#experiment-tracking)
+- [Model Deployment & Serving](#model-deployment--serving)
+- [Model Monitoring](#model-monitoring)
+- [Model Governance & Management](#model-governance--management)
+- [Model Explainability](#model-explainability)
+- [Model Testing](#model-testing)
+- [Automation & Streamlining](#automation--streamlining)
+- [Infrastructure](#infrastructure)
+- [Collaboration](#collaboration)
+- [Project Management](#project-management)
+- [Knowledge Management](#knowledge-management)
+- [Communication](#communication)
+- [AI/ML Libraries](#aiml-libraries)
+- [IDEs](#ides)
+- [Data Visualization](#data-visualization)
+- [Microservices](#microservices)
+- [Open Source AI/ML Projects](#open-source-aiml-projects)
+- [AI/ML Learning Resources](#aiml-learning-resources)
+- [HR for Global Teams](#hr-for-global-teams)
 
-## Cloud SaaS Tools
-- [Pinecone](https://www.pinecone.io/) - Vector DB
-- [IngestAI](https://ingestai.io/)
-- [Infranodus](https://infranodus.com/) - Vector DB + Knowledge Graph and informatics tooling
-- [Adept.ai](https://www.adept.ai/)
-- [Adobe Podcast Enhancer](https://podcast.adobe.com/enhance) - Enhance MP3 audio with Adobe
-- [Adobe Firefly](https://firefly.adobe.com/) - Adobe's text-to-image offering
-- [PipeGPT](https://pipegpt.com/) - Graphical prompt chaining
+## Cloud Providers
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Microsoft Azure
+- IBM Cloud
+- Oracle Cloud
 
-## Python Modules
-- [Chroma](https://www.trychroma.com/) - Local vector DB for semantic search
-- [LangChain](https://python.langchain.com/en/latest/)
-- [LangFlow](https://github.com/logspace-ai/langflow)
-- [GPT-Index](https://gpt-index.readthedocs.io/en/latest/)
+## Data Versioning
+- DVC (Data Version Control)
+- Pachyderm
 
-## GitHub Repos
-- [Cataclysm](https://github.com/Mattie/cataclysm) - Metacoding: figure out function code from function name
-- [ChroniclerAI](https://github.com/KernAlan/ChroniclerAI) - Desktop application for recording, transcribing, and summarizing audio using OpenAI GPT-3.5-turbo model
-- [CAMEL](https://github.com/lightaime/camel) - Communicative Agents for "Mind" Exploration of Large Scale Language Model Society
-- [AgentGPT](https://github.com/reworkd/AgentGPT)
-- [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Connects ChatGPT and Visual Foundation Models for image exchange during chatting
-- [HiAGI](https://github.com/DataBassGit/HiAGI) - Heuristic Imperative AGI project, inspired by AutoGPT and BabyAGI
-- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Original AutoGPT experiment
-- [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Run a ChatGPT-like model locally
+## Feature Stores
+- Feast
+- Tecton
+- Hopsworks
 
-## Scientific Papers
-- [Symbiosis, not alignment, as the goal for liberal democracies in the transition to artificial general intelligence](https://link.springer.com/article/10.1007/s43681-023-00268-7)
-- [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381)
-- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
-- [Reflexion: an autonomous agent with dynamic memory and self-reflection](https://arxiv.org/abs/2303.11366)
-- [Robots that learn from videos of human activities and simulated interactions](https://ai.facebook.com/blog/robots-learning-video-simulation-artificial-visual-cortex-vc-1/)
-- [Boosting Theory-of-Mind Performance in Large Language Models via Prompting](https://arxiv.org/abs/2304.11490)
-- [Impossibility and Uncertainty Theorems in AI Value Alignment (or why your AGI should not have a utility function)](https://arxiv.org/abs/1901.00064)
-- [Consequences of Misaligned AI](https://arxiv.org/abs/2102.03896)
-- [LLMs enable untrained scientists to potentially create pandemic-level pathogens](https://arxiv.org/abs/2306.03809)
+## Model Training Orchestration
+- Kubeflow
+- Polyaxon
+- MLflow
 
-Feel free to explore these resources and enhance your AI development and research journey!
+## Hyperparameter Tuning
+- Katib (Part of Kubeflow)
+- Hyperopt
+- Optuna
 
-*(Please note that the descriptions and content in this repository are subject to change and are not endorsed or verified by OpenAI or its affiliates.)*
+## Experiment Tracking
+- MLflow
+- Weights & Biases
+- Comet.ml
+
+## Model Deployment & Serving
+- TensorFlow Serving
+- Seldon
+- BentoML
+- TorchServe
+
+## Model Monitoring
+- Model Monitor (Amazon SageMaker)
+- Prometheus + Grafana
+- Evidently.AI
+
+## Model Governance & Management
+- MLflow
+- Neptune
+- Alteryx
+
+## Model Explainability
+- SHAP (SHapley Additive exPlanations)
+- Lime
+- Alibi
+
+## Model Testing
+- Great Expectations
+- Deequ
+- TFDV (TensorFlow Data Validation)
+
+## Automation & Streamlining
+- Jenkins
+- GitLab CI/CD
+- GitHub Actions
+- Argo CD
+
+## Infrastructure
+- Docker
+- Kubernetes
+- Terraform
+
+## Collaboration
+- Jupyter Notebooks
+- Colab Notebooks
+- GitHub
+
+## Project Management
+- Jira
+- Trello
+- Asana
+- Monday.com
+- Plane (makeplane/plane)
+
+## Knowledge Management
+- Notion
+- Confluence
+- AFFiNE (toeverything/AFFiNE)
+- [Quivr - Get a Second Brain with Generative AI](https://www.quivr.app/)
+
+## Communication
+- Slack
+- Microsoft Teams
+- Zoom
+- [Linen | Slack alternative designed for communities](https://www.linen.dev/)
+
+## AI/ML Libraries
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Keras
+- NLTK (Natural Language Toolkit)
+- XGBoost
+
+## IDEs
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- PyCharm
+
+## Data Visualization
+- Matplotlib
+- Seaborn
+- Plotly
+- Tableau
+
+## Microservices
+- Flask
+- Django
+- Express.js
+
+## Open Source AI/ML Projects
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
+- [VLLM](https://github.com/vllm-project/vllm)
+- [GPT Migrate](https://github.com/0xpayne/gpt-migrate)
+- [LLM As Chatbot](https://github.com/deep-diver/LLM-As-Chatbot)
+- [MetaGPT](https://github.com/geekan/MetaGPT)
+- [System Design](https://github.com/karanpratapsingh/system-design)
+- [Kaguya](https://github.com/ykdojo/kaguya)
+- [Talk](https://github.com/yacineMTB/talk)
+- [Emergent](https://github.com/kyb3r/emergent)
+- [LLM Survey](https://github.com/RUCAIBox/LLMSurvey)
+- [Gorilla](https://github.com/ShishirPatil/gorilla)
+- [Dialoqbase](https://github.com/n4ze3m/dialoqbase)
+- [Financial Document Analysis with LlamaIndex](https://github.com/openai/openai-cookbook/blob/main/examples/third_party_examples/financial_document_analysis_with_llamaindex.ipynb)
+- [GPT-Index](https://gpt-index.readthedocs.io/en/latest/examples/index_structs/knowledge_graph/KnowledgeGraphIndex_vs_VectorStoreIndex_vs_CustomIndex_combined.html)
+- [MindMapper](https://github.com/jmanhype/MindMapper)
+- [Linen.dev](https://github.com/Linen-dev/linen.dev)
+- [MetaGPT](https://github.com/geekan/MetaGPT)
+- [APITable](https://github.com/apitable/apitable#)
+- [GPT4All](https://gpt4all.io/index.html)
+- [PySpark AI](https://github.com/databrickslabs/pyspark-ai)
+
+## AI/ML Learning Resources
+- [The Network State: How To Start a New Country](https://thenetworkstate.com/)
+- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+- [AI-Agora](https://www.ai-agora.com/)
+- [Towards Language Models That Can See: Computer Vision Through the Lens of LLMs](https://arxiv.org/abs//2306.16410)
+- [OBELISC: An Open Web-Scale Filtered Dataset of Interleaved Image-Text](https://arxiv.org/abs//2306.16527)
+- [Introducing no-code LLM FineTuning with MonsterAPI](https://blog.monsterapi.ai/no-code-fine-tuning-llm/)
+- [Twitter Post by Milan Milanovic about Data Platforms](https://twitter.com/milan_milanovic/status/1676880659598520322)
+- [The Future of Global HR | Deel](https://www.deel.com/)
+
+Please note that the list provided is based on the information available up to my last update in September 2021. There may be newer tools and resources available in 2023, so it's always a good idea to explore and research the latest offerings in each category.
