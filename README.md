@@ -323,3 +323,4 @@ Sure thing, here are brief descriptions for each link in Markdown:
 - The Quivr React Native Client
 - Can Language Models Teach? Teacher Explanations Improve Student Performance via Theory of Mind
 - Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind
+- Automata: Bottom-up self-coding agents
