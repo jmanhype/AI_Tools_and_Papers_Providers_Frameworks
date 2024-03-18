@@ -36,6 +36,7 @@ This repository contains a curated list of tools and resources for various categ
 - **Microsoft Azure**: A cloud computing service created by Microsoft.
 - **IBM Cloud**: IBM's open and secure public cloud for business.
 - **Oracle Cloud**: It offers best-in-class services across software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS).
+- **Floom**: Cloud/Container AI gateway and marketplace for developers, enables streamlined integration of AI features into products.
 
 ### Data Versioning
 - **DVC (Data Version Control)**: An open-source tool for data science and machine learning projects that enables version control of large datasets, ML models, and intermediate files.
