@@ -1,6 +1,8 @@
 ## AI_Tools_and_Papers_Providers_Frameworks
 
-This repository contains a curated list of tools and resources for various categories related to AI/ML development and operations. The list includes popular tools as well as some open-source projects and learning resources. Please note that the information provided here is based on the knowledge cutoff in September 2021 and may not include the latest tools and advancements.
+This repository contains a curated list of tools and resources for various categories related to AI/ML development and operations. The list includes popular tools, open-source projects, research papers, and learning resources for AI/ML practitioners and enthusiasts.
+
+> **Note**: This is a living document that includes both established tools and emerging technologies. Contributions and updates are welcome!
 
 ### Table of Contents
 
@@ -31,26 +33,26 @@ This repository contains a curated list of tools and resources for various categ
 
 
 ### Cloud Providers
-- **Amazon Web Services (AWS)**: A comprehensive, evolving cloud computing platform provided by Amazon.
-- **Google Cloud Platform (GCP)**: A suite of cloud computing services offered by Google.
-- **Microsoft Azure**: A cloud computing service created by Microsoft.
-- **IBM Cloud**: IBM's open and secure public cloud for business.
-- **Oracle Cloud**: It offers best-in-class services across software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS).
+- **[Amazon Web Services (AWS)](https://aws.amazon.com/)**: A comprehensive, evolving cloud computing platform provided by Amazon.
+- **[Google Cloud Platform (GCP)](https://cloud.google.com/)**: A suite of cloud computing services offered by Google.
+- **[Microsoft Azure](https://azure.microsoft.com/)**: A cloud computing service created by Microsoft.
+- **[IBM Cloud](https://www.ibm.com/cloud)**: IBM's open and secure public cloud for business.
+- **[Oracle Cloud](https://www.oracle.com/cloud/)**: It offers best-in-class services across software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS).
 - **Floom**: Cloud/Container AI gateway and marketplace for developers, enables streamlined integration of AI features into products.
 
 ### Data Versioning
-- **DVC (Data Version Control)**: An open-source tool for data science and machine learning projects that enables version control of large datasets, ML models, and intermediate files.
-- **Pachyderm**: A version-controlled data lineage system.
+- **[DVC (Data Version Control)](https://dvc.org/)**: An open-source tool for data science and machine learning projects that enables version control of large datasets, ML models, and intermediate files.
+- **[Pachyderm](https://www.pachyderm.com/)**: A version-controlled data lineage system.
 
 ### Feature Stores
-- **Feast**: An open-source feature store for machine learning.
-- **Tecton**: A feature store for operational machine learning.
-- **Hopsworks**: An open-source data-intensive AI platform with a feature store.
+- **[Feast](https://feast.dev/)**: An open-source feature store for machine learning.
+- **[Tecton](https://www.tecton.ai/)**: A feature store for operational machine learning.
+- **[Hopsworks](https://www.hopsworks.ai/)**: An open-source data-intensive AI platform with a feature store.
 
 ### Model Training Orchestration
-- **Kubeflow**: An open-source project dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable.
-- **Polyaxon**: An open-source platform for machine learning lifecycle management.
-- **MLflow**: An open-source platform to manage the ML lifecycle.
+- **[Kubeflow](https://www.kubeflow.org/)**: An open-source project dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable.
+- **[Polyaxon](https://polyaxon.com/)**: An open-source platform for machine learning lifecycle management.
+- **[MLflow](https://mlflow.org/)**: An open-source platform to manage the ML lifecycle.
 
 ### Hyperparameter Tuning
 - **Katib**: A Kubernetes-native project for automated machine learning (AutoML).
@@ -95,9 +97,9 @@ This repository contains a curated list of tools and resources for various categ
 - **Argo CD**: A declarative, GitOps continuous delivery tool for Kubernetes.
 
 ### Infrastructure
-- **Docker**: An open-source platform to automate the deployment, scaling, and management of applications.
-- **Kubernetes**: An open-source platform designed to automate deploying, scaling, and operating application containers.
-- **Terraform**: An open-source infrastructure as code software tool.
+- **[Docker](https://www.docker.com/)**: An open-source platform to automate the deployment, scaling, and management of applications.
+- **[Kubernetes](https://kubernetes.io/)**: An open-source platform designed to automate deploying, scaling, and operating application containers.
+- **[Terraform](https://www.terraform.io/)**: An open-source infrastructure as code software tool.
 
 ### Collaboration
 - **Jupyter Notebooks**: An open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
@@ -124,12 +126,12 @@ This repository contains a curated list of tools and resources for various categ
 - **Zoom**: A proprietary video teleconferencing software program.
 
 ### AI/ML Libraries
-- **TensorFlow**: An end-to-end open-source platform for machine learning.
-- **PyTorch**: An open-source machine learning library.
-- **Scikit-learn**: A free software machine learning library for Python.
-- **Keras**: A user-friendly neural network library written in Python.
-- **NLTK (Natural Language Toolkit)**: A leading platform for building Python programs to work with human language data.
-- **XGBoost**: A scalable, portable, and distributed gradient boosting (GBDT, GBRT, or GBM) library.
+- **[TensorFlow](https://www.tensorflow.org/)**: An end-to-end open-source platform for machine learning.
+- **[PyTorch](https://pytorch.org/)**: An open-source machine learning library.
+- **[Scikit-learn](https://scikit-learn.org/)**: A free software machine learning library for Python.
+- **[Keras](https://keras.io/)**: A user-friendly neural network library written in Python.
+- **[NLTK (Natural Language Toolkit)](https://www.nltk.org/)**: A leading platform for building Python programs to work with human language data.
+- **[XGBoost](https://xgboost.readthedocs.io/)**: A scalable, portable, and distributed gradient boosting (GBDT, GBRT, or GBM) library.
 
 ### IDEs
 - **Jupyter Notebook**: An open-source web application that allows the creation and sharing of documents with live code, equations, visualizations, and narrative text.
@@ -140,9 +142,7 @@ This repository contains a curated list of tools and resources for various categ
 ### Data Visualization
 - **Matplotlib**: A plotting library for Python.
 - **Seaborn**: A Python data visualization library based on Matplotlib.
-- **Plotly
-
-**: An open-source data visualization library used to create interactive and high-quality graphs in R and Python.
+- **Plotly**: An open-source data visualization library used to create interactive and high-quality graphs in R and Python.
 - **Tableau**: A data visualization tool used in the Business Intelligence industry.
 
 ### Microservices
@@ -150,11 +150,7 @@ This repository contains a curated list of tools and resources for various categ
 - **Django**: A high-level Python web framework that enables rapid development of secure and maintainable websites.
 - **Express.js**: A web application framework for Node.js, released as free and open-source software.
 
-### Automation & Streamlining
-- **Jenkins**: An open-source automation server.
-- **GitLab CI/CD**: A tool built into GitLab for software development through the continuous methodologies.
-- **GitHub Actions**: A CI/CD platform that automates all your software workflows.
-- **Argo CD**: A declarative, GitOps continuous delivery tool for Kubernetes.
+### AI Development & Automation Tools
 - [Chadxz.dev](https://chadxz.dev/platform/) - How Platform Engineering Works
 - [Smol Developer](https://github.com/smol-ai/developer) - With 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [Rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
@@ -171,17 +167,6 @@ This repository contains a curated list of tools and resources for various categ
 - [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++ whisper: support speaker segmentation (local diarization) of mono audio via tinydiarize #1058
 - [Ai-Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [Ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.
-
-### Collaboration
-
-- [Airtable](https://www.airtable.com/) - The fastest way to build apps. Transform your business with Airtable's next-gen app platform. Unmatched agility and efficiency.
-- [Quivr](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating a large language model for tool learning.
-- [GitHub Assistant](https://github.com/g-emarco/github-assistant) - Generative AI GitHub Assistant for Your Repository
-- [Yohei Nakajima's Twitter](https://twitter.com/yoheinakajima) - Woo hoo 🎉 Just set up "Deals McDealFace" - an internal email address for tracking deals!
-
-### AI/ML Libraries
-
-- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model.
 
 ### Open Source AI/ML Projects
 
