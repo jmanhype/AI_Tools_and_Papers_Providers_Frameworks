@@ -155,6 +155,7 @@ This repository contains a curated list of tools and resources for various categ
 - [Smol Developer](https://github.com/smol-ai/developer) - With 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [Rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [Cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
+- [Agent QA](https://github.com/vostride/agent-qa) - A source-available application QA harness for natural-language web and mobile tests, with an MCP server, persistent execution memory, and self-healing flows.
 - [Modal](https://modal.com/) - End-to-end cloud compute Model inference, batch jobs, task queues, web apps and more. All without your own infrastructure.
 - [Chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
 - [Pipedream](https://pipedream.com/) - Connect APIs, remarkably fast. Stop writing boilerplate code, struggling with authentication, and managing infrastructure. Start connecting APIs with code-level control when you need it — and no code when you don't.
